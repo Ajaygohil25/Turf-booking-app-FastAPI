@@ -1,0 +1,21 @@
+DATABASE_NAME = <database name>
+DATABASE_USERNAME = <database username>
+DATABASE_PASSWORD = <database password>
+DATABASE_HOST = <database host>
+DATABASE_PORT = <port number>
+POSTGRES_DB = <database provider name>
+
+HASH_KEY = <hash key for the encryption>
+HASH_ALGO = <hashing algorithm>
+
+MAIL_USERNAME = <mail user name>
+MAIL_PASSWORD = <mail password>
+MAIL_PORT = <mail port>
+MAIL_SERVER = <mail server>
+MAIL_FROM =  <mail sending user>
+
+GOOGLE_CLIENT_ID = <google cloud client id>
+GOOGLE_CLIENT_SECRET = <google cloud secret key>
+
+PORT = <port of server>
+HOST = <host of server>
